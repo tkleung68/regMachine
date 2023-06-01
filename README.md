@@ -1,4 +1,4 @@
-For Cityu banner 8 registration
+For Cityu banner 8 registration using selenium
 
 1. install python3 (for my environment 3.7.7)
 2. install the library "selenium" by running the command "pip3 install selenium" on terminal
